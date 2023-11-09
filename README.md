@@ -1,4 +1,4 @@
-# rationalnumbers
+# Rational aumbers
 A set of typical operations between rational numbers:
 
 - Addition, subtraction, multiplication and division of two rational numbers
